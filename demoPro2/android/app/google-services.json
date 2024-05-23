@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "354189681772",
+    "project_id": "ekyc-d40ab",
+    "storage_bucket": "ekyc-d40ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354189681772:android:33101e6454923cae2a2449",
+        "android_client_info": {
+          "package_name": "com.example.ekyc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xXa9bXaodq2HrugN-4gnJihGETgNdPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354189681772:android:429dc0898390558a2a2449",
+        "android_client_info": {
+          "package_name": "com.example.noti_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xXa9bXaodq2HrugN-4gnJihGETgNdPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354189681772:android:7c5ea99c8ef44dae2a2449",
+        "android_client_info": {
+          "package_name": "com.flattrade.ekyc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xXa9bXaodq2HrugN-4gnJihGETgNdPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
